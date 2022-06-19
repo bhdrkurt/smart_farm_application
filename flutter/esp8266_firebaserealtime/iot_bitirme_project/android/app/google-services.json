@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283021215693",
+    "firebase_url": "https://bitirme-project-cced3-default-rtdb.firebaseio.com",
+    "project_id": "bitirme-project-cced3",
+    "storage_bucket": "bitirme-project-cced3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283021215693:android:9a430f7db91b33e0a1e684",
+        "android_client_info": {
+          "package_name": "com.example.iotbitirmeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283021215693-ps9fvvnsfeduas2q516e1bn4kfpuph5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iotbitirmeproject",
+            "certificate_hash": "7f7d99434932fcf6ee7f3d6a79c391c07230e789"
+          }
+        },
+        {
+          "client_id": "283021215693-esirga1ajsdol6ms4raejd31cqrhut1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR2U0hNwznUXp1y-6eIfIjS6U69NJjl6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283021215693-esirga1ajsdol6ms4raejd31cqrhut1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
